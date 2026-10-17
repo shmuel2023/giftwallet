@@ -16,6 +16,9 @@ struct GiftWalletApp: App {
         // must exist before iOS delivers a background region event
         LocationAlerts.shared.container = container
         _ = CatalogStore.shared
+        #if DEBUG
+        DemoData.seedIfRequested(container)
+        #endif
     }
 
     var body: some Scene {
@@ -58,7 +61,14 @@ final class Router {
     var tab: Tab = .search
     var pendingBrandKey: String?
 
-    enum Tab: Hashable { case search, nearby, wishlist, vouchers, settings }
+    enum Tab: String, Hashable { case search, nearby, wishlist, vouchers, settings }
+
+    init() {
+        #if DEBUG
+        if let t = UserDefaults.standard.string(forKey: "gwTab"), let tab = Tab(rawValue: t) { self.tab = tab }
+        pendingBrandKey = UserDefaults.standard.string(forKey: "gwBrand")
+        #endif
+    }
 
     func open(brandKey: String) {
         pendingBrandKey = brandKey
