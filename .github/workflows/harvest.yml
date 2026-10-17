@@ -1,0 +1,51 @@
+name: Harvest gift-card merchants
+
+on:
+  schedule:
+    # Every day at 00:15 UTC (03:15 Israel summer time / 02:15 winter time)
+    - cron: "15 0 * * *"
+  workflow_dispatch: {}      # "Run workflow" button for a manual refresh
+
+permissions:
+  contents: write            # needed to commit the updated data/ files
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Test parsers
+        run: python -m pytest -q
+
+      - name: Harvest
+        env:
+          GEOCODE_CONTACT: ${{ github.server_url }}/${{ github.repository }}
+        run: python -m harvester.run
+
+      - name: Commit data if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "data: harvest $(date -u +%Y-%m-%d)"
+            git push
+          fi
