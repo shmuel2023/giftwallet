@@ -137,6 +137,10 @@ struct NearbyView: View {
                 found.append((b, branch))
             }
         }
+        // nearest branch of each business only
+        var seenBrands = Set<String>()
         wishBranches = found.sorted { $0.1.distance < $1.1.distance }
+            .filter { seenBrands.insert($0.0.key).inserted }
+        here = here.filter { !seenBrands.contains($0.0.key) && seenBrands.insert($0.0.key).inserted }
     }
 }
