@@ -1,0 +1,18 @@
+[
+ {
+  "id": "buyme_all",
+  "name": "BUYME ALL",
+  "issuer": "BuyMe",
+  "source_url": "https://buyme.co.il/brands/13438757",
+  "terms": "טרם מימוש השובר בבתי מלון וספא, יש לתאם הגעה מראש מול בית העסק. רשימת העסקים המכבדים עשויה להשתנות מעת לעת ולכן יש להתעדכן ברשימה טרם מימוש השובר.",
+  "merchant_count": 1322
+ },
+ {
+  "id": "dreamcard",
+  "name": "DREAM CARD",
+  "issuer": "קבוצת FOX",
+  "source_url": "https://www.dcgift.co.il/dream-card-gift-card",
+  "terms": "תוקף 5 שנים מיום ההנפקה. לא כולל הטבות מועדון. לא ניתן למימוש באתרי הסחר. התו הדיגיטלי לא מכובד ברשת yanga.",
+  "merchant_count": 20
+ }
+]
