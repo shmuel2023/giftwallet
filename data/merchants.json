@@ -3173,6 +3173,56 @@
   "terms": "איך משתמשים ב-BUYME שלך ברכישות אונליין?\nנכנסים לאתר BUMPERS ובוחרים את הפריטים שהכי עושים לך טוב בלב.\nמוסיפים לעגלה - ועוברים לקופה לשלב התשלום.\nשימו לב, מימוש ה-BUYME הוא במעמד התשלום, ולא ניתן לממש את המתנה בשלב בחירת הפריטים או בחלונית \"קוד הנחה\".\nבעמוד התשלום ממלאים את פרטי המשלוח ולוחצים 'שלם עכשיו'\nבעמוד הבא מסמנים 'שוברי BUYME', מזינים את 16 הספרות שמרכיבות את קוד ה-BUYME שלך, לוחצים 'לתשלום' – ומשלימים את ההזמנה.\nוזהו, המתנה שבחרת בדרך אלייך!\nנ.ב, ניתן להוסיף עוד אמצעי תשלום או/ו שוברים נוספים\nלפרטים נוספים ניתן ליצור קשר עם בית העסק"
  },
  {
+  "id": "buyme:17574652",
+  "card": "buyme_all",
+  "name": "BYANGLER",
+  "brand_key": "byangler",
+  "category": "אופנה ושופינג",
+  "subcategories": [],
+  "regions": [
+   "ת\"א והסביבה"
+  ],
+  "search_terms": [
+   "ביי אנגלר",
+   "byangler",
+   "כיסוי לאייפון",
+   "אנגלר",
+   "אנגלר תיקים",
+   "מיתוג אישי",
+   "byagnler",
+   "תיק טוט",
+   "כיסוי אייפון",
+   "byangler.com",
+   "מתנה אישית",
+   "כיסוי עור",
+   "כיסוי דרכון",
+   "ארנק עור",
+   "bi angler",
+   "תג מזוודה",
+   "byangeler",
+   "ארנק כרטיסים",
+   "by angler",
+   "כיסויי עור",
+   "מחזיק מפתחות",
+   "אנגלר כיסויים",
+   "בי אנגלר",
+   "כיסוי אירפודס",
+   "טולי"
+  ],
+  "is_chain": false,
+  "online_redeem": false,
+  "address": "אלכסנדר ינאי 16, ת\"א",
+  "lat": null,
+  "lng": null,
+  "phone": "055-984-9797",
+  "website": "https://www.byangler.com",
+  "branch_locator_url": null,
+  "reservation_url": null,
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574652.jpg?v=1792508662",
+  "slogan": "מתנה בהתאמה אישית",
+  "terms": "למימוש יש להציג את קוד השובר"
+ },
+ {
   "id": "buyme:17574549",
   "card": "buyme_all",
   "name": "BYNETA",
@@ -9775,7 +9825,7 @@
   "website": "https://glam42.co.il",
   "branch_locator_url": "https://glam42.co.il/pages/glam42-locations",
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574616.jpg?v=1792048800",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574616.jpg?v=1792484385",
   "slogan": "רשת פארם וקוסמטיקה",
   "terms": "למימוש יש להציג את קוד השובר"
  },
@@ -10451,7 +10501,7 @@
   "website": "https://getaway-vouchers.bridgify.travel/he",
   "branch_locator_url": null,
   "reservation_url": "https://getaway-vouchers.bridgify.travel/he",
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574095.jpg?v=1791107152",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574095.jpg?v=1792525900",
   "slogan": "מותגי אופנה וחוויות בחו\"ל",
   "terms": "ניתן ליהנות מה-BUYME ברכישה אונליין באתר בית העסק.\nאיך משתמשים ב-BUYME שלך ברכישות אונליין?\nנכנסים לאתר GETAWAY BY BUYME ובוחרים את הפריטים שהכי עושים לך טוב בלב.\nמוסיפים לעגלה - ועוברים לקופה לשלב התשלום.\nשימו לב, מימוש ה-BUYME הוא במעמד התשלום, ולא ניתן לממש את המתנה בשלב בחירת הפריטים או בחלונית \"קוד קופון או גיפטקארד\".\nבעמוד התשלום לוחצים על קוד שובר מזינים את 16 הספרות שמרכיבות את קוד ה-BUYME שלך, לוחצים לתשלום- ומשלימים את ההזמנה.\nוזהו, המתנה שבחרת בדרך אלייך!\nנ.ב, אם השובר מכסה את כל הסכום, אפשר להשלים את הרכישה ללא תשלום נוסף. אם יש יתרה לתשלום, ניתן להשלים את ההפרש באמצעי תשלום אחר.\nלפרטים נוספים ניתן ליצור קשר עם בית העסק!"
  },
@@ -15486,7 +15536,7 @@
   "website": "https://baby-lulu.com",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574364.jpg?v=1789480289",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574364.jpg?v=1792482808",
   "slogan": "מנשאי בד לתינוקות",
   "terms": "ניתן ליהנות מה-BUYME ברכישה אונליין באתר בית העסק\nאיך משתמשים ב-BUYME שלך ברכישות אונליין?\nנכנסים לאתר BABY LULU ובוחרים את הפריטים שהכי עושים לך טוב בלב.\nמוסיפים לעגלה - ועוברים לקופה לשלב התשלום.\nשימו לב, מימוש ה-BUYME הוא במעמד התשלום, ולא ניתן לממש את המתנה בשלב בחירת הפריטים או בחלונית \"קוד הנחה\".\nבעמוד התשלום לוחצים על כרטיס אשראי ועוברים לתשלום. לוחצים על \"יש לך גיפטקארד? ביימי\".\nמזינים את 16 הספרות שמרכיבות את קוד ה-BUYME שלך, לוחצים שלם כעת – ומשלימים את ההזמנה.\nוזהו, המתנה שבחרת בדרך אלייך!\nלפרטים נוספים ניתן ליצור קשר עם בית העסק"
  },
@@ -17992,7 +18042,7 @@
   "website": "https://www.mashya.co.il/he",
   "branch_locator_url": null,
   "reservation_url": "https://tabitisrael.co.il/site/mashya",
-  "logo_url": "https://buyme.co.il/files/siteNewLogo1146565.jpg?v=1789048046",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo1146565.jpg?v=1792500166",
   "slogan": "מסעדת שף",
   "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/ מייל/ דף מודפס. לפרטים נוספים : 03-7500999."
  },
@@ -18256,7 +18306,7 @@
   "website": "http://www.minene.net",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo1340489.jpg?v=1787574084",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo1340489.jpg?v=1792490399",
   "slogan": "רשת מוצרי בוטיק לתינוקות",
   "terms": "למימוש השובר באתר ובאפליקציית מיננה- Minene במעמד התשלום בשלב פרטי תשלום יש לבחור במימוש שובר BUYME ולהזיןאת קוד השובר.\nלאחר הזנת הקוד תופיע היתרה הקיימת בשובר- ניתן לממש גם חלק מהיתרה. לפרטים נוספים: 09-9549979\nלמימוש השובר בסניפים הפיזיים יש להציג מספר שובר באמצעות SMS/ מייל/ שובר מודפס."
  },
@@ -20462,7 +20512,11 @@
    "מארזי טיפוח",
    "קרם עיניים",
    "סרום לפנים",
-   "סבון פנים"
+   "סבון פנים",
+   "יופי",
+   "טיפוח",
+   "beauty",
+   "יופי וטיפוח"
   ],
   "is_chain": false,
   "online_redeem": true,
@@ -20473,7 +20527,7 @@
   "website": "https://pelle-sg.co.il",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574135.jpg?v=1792313973",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574135.jpg?v=1792493666",
   "slogan": "מותג טיפוח מבית שלי גפני",
   "terms": "איך משתמשים ב-BUYME שלך ברכישות אונליין?\nנכנסים לאתר PELLE by shelly gafni ובוחרים את הפריטים שהכי עושים לך טוב בלב.\nמוסיפים לעגלה - ועוברים לקופה לשלב התשלום.\nשימו לב, מימוש המתנה הוא במעמד התשלום תחת בחירה של תשלום דרך ביימי ולא ניתן לממש את המתנה תחת \"אם יש לך קופון, יש להכניס אותו כאן\" או \"גיפט קארד\".\nבעמוד התשלום, לוחצים על רכישה, ממלאים פרטים ומתקדמים לתשלום. כשתגיעו לאפשרויות לתשלום יש לבחור ב'BUYME', לאחר מכן תיפתח לכם חלונית שבה תצטרכו לבחור שוב 'BUYME'\nמזינים את 16 הספרות שמרכיבות את קוד ה-BUYME שלך, לוחצים 'לתשלום' – ומשלימים את ההזמנה.\nוזהו, המתנה שבחרת בדרך אלייך!\nנ.ב, ניתן להוסיף עוד אמצעי תשלום או/ו שוברים נוספים\nלפרטים נוספים ניתן ליצור קשר עם בית העסק\nאזורי חלוקת המשלוחים הינם לפי מדיניות המשלוחים של בית העסק."
  },
@@ -28173,17 +28227,17 @@
    "טולי"
   ],
   "is_chain": true,
-  "online_redeem": false,
+  "online_redeem": true,
   "address": null,
   "lat": null,
   "lng": null,
   "phone": "1-700-70-50-40",
-  "website": "https://www.megasport.co.il/collections/under-armour",
+  "website": "https://underarmour.co.il",
   "branch_locator_url": "https://www.canva.com/design/DAG37d10Rdg/FwPjg3MjXscYvOOIpquclg/view",
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17573768.jpg?v=1789560103",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17573768.jpg?v=1792507642",
   "slogan": "מותג ספורט בינלאומי",
-  "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/מייל/דף מודפס. לפרטים נוספים:1-700-70-50-40."
+  "terms": "ניתן ליהנות מה-BUYME גם ברכישה אונליין באתר בית העסק וגם בחנויות.\nאיך נהנים מה-BUYME שלך ברכישות אונליין?\nנכנסים לאתר Under Armour ובוחרים את הפריטים שהכי עושים לך טוב בלב.\nמוסיפים לעגלה - ועוברים לקופה לשלב התשלום.\nשימו לב, מימוש ה-BUYME הוא במעמד התשלום, ולא ניתן לממש את המתנה בשלב בחירת הפריטים או בחלונית \"קוד קופון או גיפטקארד\".\nבעמוד התשלום לוחצים על \"BUYME\", מזינים את 16 הספרות שמרכיבות את קוד ה-BUYME שלך, לוחצים \"אישור\" ומשלימים את ההזמנה.\nוזהו, המתנה שבחרת בדרך אלייך!\nכדי ליהנות מה-BUYME בבית העסק יש להציג את הקוד למימוש בקופה."
  },
  {
   "id": "buyme:17573894",
@@ -30094,7 +30148,7 @@
   "website": "http://www.adidas.co.il/he",
   "branch_locator_url": "https://www.adidas.co.il/he/stores",
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo2208.jpg?v=1790075174",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo2208.jpg?v=1792508024",
   "slogan": "מותג אופנה וספורט בינלאומי",
   "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/ מייל/ דף מודפס. פרטים נוספים: 03-6505321."
  },
@@ -32286,7 +32340,7 @@
   "website": "http://www.avitality.co.il",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo970763.jpg?v=1790680035",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo970763.jpg?v=1792508043",
   "slogan": "סדנאות בישול בריא",
   "terms": "למימוש ותיאום סדנא יש ליצור קשר בטלפון: 0544317255 ולמסור במעמד השיחה את קוד ה- Gift Card המצויין על גבי SMS/מייל/דף מודפס."
  },
@@ -36693,6 +36747,60 @@
   "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/מייל/דף מודפס. לפרטים נוספים: oz@justmusic.co.il."
  },
  {
+  "id": "buyme:7684030",
+  "card": "buyme_all",
+  "name": "ג'ונגל",
+  "brand_key": "ג'ונגל",
+  "category": "לבית",
+  "subcategories": [
+   "חיות מחמד"
+  ],
+  "regions": [
+   "ת\"א והסביבה",
+   "מרכז",
+   "צפון",
+   "חיפה והסביבה",
+   "השרון והסביבה"
+  ],
+  "search_terms": [
+   "אוכל לחיות",
+   "אוכל חיות",
+   "ציוד לחיות",
+   "ציוד לבעלי חיים",
+   "בעלי חיים",
+   "חיות",
+   "בעל\"ח",
+   "פריסה ארצית",
+   "ra,dwubdk",
+   "jungel",
+   "גונגל",
+   "משפחה",
+   "בית",
+   "וטרינר",
+   "רשט ג'ונגל- jungle חיות מחמד",
+   "רשת ג'ונגל- jungle כיות מחמד",
+   "רשט ג'ונגל- jungle כיות מחמד",
+   "רשת ג'ונגל- jungle חיוט מחמד",
+   "רשט ג'ונגל- jungle כיוט מחמד",
+   "רשת ג'ונגל- jungle חיות מכמד",
+   "רשט ג'ונגל- jungle כיוט מכמד",
+   "jungle-club",
+   "jungle"
+  ],
+  "is_chain": true,
+  "online_redeem": false,
+  "address": null,
+  "lat": null,
+  "lng": null,
+  "phone": "03-6096626",
+  "website": "https://www.jungle-club.co.il/https://www.ben-rod.com/main",
+  "branch_locator_url": "https://www.jungle-club.co.il/%d7%a1%d7%a0%d7%99%d7%a4%d7%99-%d7%94%d7%a8%d7%a9%d7%aa",
+  "reservation_url": null,
+  "logo_url": "https://buyme.co.il/files/siteNewLogo7684030.jpg?v=1792490036",
+  "slogan": "רשת מוצרים לחיות מחמד",
+  "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/מייל/דף מודפס. לפרטים נוספים: 03-6096626 משלוח כלול בתוספת תשלום."
+ },
+ {
   "id": "buyme:368140",
   "card": "buyme_all",
   "name": "ג'קו סטריט",
@@ -40707,7 +40815,7 @@
   "website": "https://www.katedra.co.il",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo3651898.jpg?v=1790685390",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo3651898.jpg?v=1792483791",
   "slogan": "מרכז הרצאות וידע",
   "terms": "מימוש ה-Gift Card באמצעות הצגת מספר השובר באחד מהאמצעים הבאים:\nשירות לקוחות הקתדרה בטלפון 5288*\nדוא\"ל: katedra@katedra.co.il\nווטסאפ: 052-9990513"
  },
@@ -45494,7 +45602,8 @@
   "category": "סדנאות והעשרה",
   "subcategories": [
    "יועצים",
-   "סדנאות וקורסים"
+   "סדנאות וקורסים",
+   "סדנאות והעשרה"
   ],
   "regions": [
    "חיפה והסביבה",
@@ -51882,7 +51991,7 @@
   "website": "https://pereh.co.il/culinary/https://www.crudohaifa.co.il/?source=google",
   "branch_locator_url": null,
   "reservation_url": "https://tabitisrael.co.il/online-reservations/create-reservation?step=search&orgId=6266b0fb5a0fcc9eca1f4f13&locale=he-IL",
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17573628.jpg?v=1790754473",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17573628.jpg?v=1792500389",
   "slogan": "מסעדת שף עונתית, מקומית במלון פרא",
   "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/מייל/דף מודפס. לפרטים נוספים: 054-9935431."
  },
@@ -62416,7 +62525,7 @@
   "website": "https://www.segevchef.com",
   "branch_locator_url": "https://buyme.co.il/page/124",
   "reservation_url": "https://www.segevchef.com/order-table",
-  "logo_url": "https://buyme.co.il/files/siteNewLogo320428.jpg?v=1792311358",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo320428.jpg?v=1792498883",
   "slogan": "מגוון מסעדות של השף שגב משה",
   "terms": "למימוש השובר יש להציג את מספר השובר המלא באמצעות SMS/ מייל/ שובר מודפס. לפרטים נוספים ניתן ליצור קשר בטלפון 077-4142025.\nניתן לממש את השובר גם במשלוח באמצעות הזמנה טלפונית, בתוספת תשלום עבור המשלוח. המשלוחים מתבצעים בהתאם לאיזור המגורים."
  },
