@@ -10371,7 +10371,7 @@
   "website": "https://www.garmin.co.il",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574166.jpg?v=1791293246",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574166.jpg?v=1792589534",
   "slogan": "מותג שעוני ספורט",
   "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/מייל/דף מודפס. לפרטים נוספים: (0732446060)."
  },
@@ -10501,7 +10501,7 @@
   "website": "https://getaway-vouchers.bridgify.travel/he",
   "branch_locator_url": null,
   "reservation_url": "https://getaway-vouchers.bridgify.travel/he",
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574095.jpg?v=1792525900",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574095.jpg?v=1792565619",
   "slogan": "מותגי אופנה וחוויות בחו\"ל",
   "terms": "ניתן ליהנות מה-BUYME ברכישה אונליין באתר בית העסק.\nאיך משתמשים ב-BUYME שלך ברכישות אונליין?\nנכנסים לאתר GETAWAY BY BUYME ובוחרים את הפריטים שהכי עושים לך טוב בלב.\nמוסיפים לעגלה - ועוברים לקופה לשלב התשלום.\nשימו לב, מימוש ה-BUYME הוא במעמד התשלום, ולא ניתן לממש את המתנה בשלב בחירת הפריטים או בחלונית \"קוד קופון או גיפטקארד\".\nבעמוד התשלום לוחצים על קוד שובר מזינים את 16 הספרות שמרכיבות את קוד ה-BUYME שלך, לוחצים לתשלום- ומשלימים את ההזמנה.\nוזהו, המתנה שבחרת בדרך אלייך!\nנ.ב, אם השובר מכסה את כל הסכום, אפשר להשלים את הרכישה ללא תשלום נוסף. אם יש יתרה לתשלום, ניתן להשלים את ההפרש באמצעי תשלום אחר.\nלפרטים נוספים ניתן ליצור קשר עם בית העסק!"
  },
@@ -17178,6 +17178,65 @@
   "logo_url": "https://buyme.co.il/files/siteNewLogo17573490.jpg?v=1791986334",
   "slogan": "מותג שעונים ותכשיטים",
   "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/מייל/דף מודפס. לפרטים נוספים: 053-4743384.\nלמימוש אונליין יש להזמין משלוח דרך אתר בית העסק באופן הבא-\nשימו לב, מימוש המתנה הוא במעמד התשלום ולא ניתן לממש את המתנה בשלב בחירת הפריטים.\nאז איך נהנים מהמתנה במשלוח?\nאחרי שבחרתם את הפריטים שהכי עושים לכם טוב בלב, עוברים לסל הקניות, לוחצים שם בתחתית העמוד על 'מעבר לתשלום'. כשתגיעו לשם תמלאו את 'פרטי החיוב', ואז מצד שמאל ישנה אפשרות לבחור ב'BUYME' וזה בדיוק המקום בו מזינים את הקוד של הגיפט קארד.\nאזורי חלוקת המשלוחים הינם לפי מדיניות המשלוחים של בית העסק."
+ },
+ {
+  "id": "buyme:17574615",
+  "card": "buyme_all",
+  "name": "MIX&MATCHA",
+  "brand_key": "mix&matcha",
+  "category": "מסעדות וקולינריה",
+  "subcategories": [
+   "בתי קפה"
+  ],
+  "regions": [
+   "ת\"א והסביבה",
+   "מרכז"
+  ],
+  "search_terms": [
+   "מאצ'ה",
+   "תה",
+   "בריאות",
+   "טבעי",
+   "פרימיום",
+   "יפני",
+   "אורגני",
+   "משקה",
+   "תחליף",
+   "אביזרים",
+   "חנות",
+   "סרמוניאל",
+   "אבקת",
+   "קפה",
+   "ערכה",
+   "חם",
+   "קקאו",
+   "אנרגיה",
+   "מתכונים",
+   "קר",
+   "בוטיק",
+   "בנימין",
+   "תל אביב",
+   "נחלת",
+   "mix",
+   "macha",
+   "mix macha",
+   "mix & macha",
+   "מיקס",
+   "מאצה",
+   "nhex"
+  ],
+  "is_chain": false,
+  "online_redeem": false,
+  "address": "נחלת בנימין 5, תל אביב-יפו",
+  "lat": 32.068829,
+  "lng": 34.770122,
+  "phone": "053-931-6613",
+  "website": "https://mix-n-matcha.com",
+  "branch_locator_url": null,
+  "reservation_url": null,
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574615.jpg?v=1792583276",
+  "slogan": "חנות למוצרי מאצ'ה",
+  "terms": "למימוש יש להציג את קוד השובר"
  },
  {
   "id": "buyme:17573503",
@@ -23872,7 +23931,7 @@
   "website": "https://www.hotels-spa.co.il",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574405.jpg?v=1791183162",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574405.jpg?v=1792575151",
   "slogan": "רשת בתי ספא",
   "terms": "כדי ליהנות מה-BUYME בבית העסק יש להציג את הקוד למימוש בקופה.\nלפרטים נוספים ניתן ליצור קשר עם בית העסק"
  },
@@ -24270,7 +24329,7 @@
    "טולי"
   ],
   "is_chain": true,
-  "online_redeem": false,
+  "online_redeem": true,
   "address": null,
   "lat": null,
   "lng": null,
@@ -24278,9 +24337,9 @@
   "website": "https://www.saucony.co.il",
   "branch_locator_url": "https://www.saucony.co.il/contact",
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo6213665.jpg?v=1789559141",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo6213665.jpg?v=1792592024",
   "slogan": "מותג נעלי ריצה וספורט",
-  "terms": "למימוש השובר יש להגיע לחנויות הרשת ולמסור את קוד ה-Gift Card המלא המופיע על גבי SMS/מייל/דף מודפס. לפרטים נוספים: 6922*."
+  "terms": "ניתן ליהנות מה-BUYME גם ברכישה אונליין באתר בית העסק וגם בחנויות.\nאיך נהנים מה-BUYME שלך ברכישות אונליין?\nנכנסים לאתר Saucony ובוחרים את הפריטים שהכי עושים לך טוב בלב.\nמוסיפים לעגלה - ועוברים לקופה לשלב התשלום.\nשימו לב, מימוש ה-BUYME הוא במעמד התשלום, ולא ניתן לממש את המתנה בשלב בחירת הפריטים או בחלונית \"קוד קופון או גיפטקארד\".\nבעמוד התשלום לוחצים על \"BUYME\", מזינים את 16 הספרות שמרכיבות את קוד ה-BUYME שלך, לוחצים \"אישור\" ומשלימים את ההזמנה.\nוזהו, המתנה שבחרת בדרך אלייך!\nכדי ליהנות מה-BUYME בבית העסק יש להציג את הקוד למימוש בקופה."
  },
  {
   "id": "buyme:2463477",
@@ -28235,7 +28294,7 @@
   "website": "https://underarmour.co.il",
   "branch_locator_url": "https://www.canva.com/design/DAG37d10Rdg/FwPjg3MjXscYvOOIpquclg/view",
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17573768.jpg?v=1792507642",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17573768.jpg?v=1792591960",
   "slogan": "מותג ספורט בינלאומי",
   "terms": "ניתן ליהנות מה-BUYME גם ברכישה אונליין באתר בית העסק וגם בחנויות.\nאיך נהנים מה-BUYME שלך ברכישות אונליין?\nנכנסים לאתר Under Armour ובוחרים את הפריטים שהכי עושים לך טוב בלב.\nמוסיפים לעגלה - ועוברים לקופה לשלב התשלום.\nשימו לב, מימוש ה-BUYME הוא במעמד התשלום, ולא ניתן לממש את המתנה בשלב בחירת הפריטים או בחלונית \"קוד קופון או גיפטקארד\".\nבעמוד התשלום לוחצים על \"BUYME\", מזינים את 16 הספרות שמרכיבות את קוד ה-BUYME שלך, לוחצים \"אישור\" ומשלימים את ההזמנה.\nוזהו, המתנה שבחרת בדרך אלייך!\nכדי ליהנות מה-BUYME בבית העסק יש להציג את הקוד למימוש בקופה."
  },
@@ -30148,7 +30207,7 @@
   "website": "http://www.adidas.co.il/he",
   "branch_locator_url": "https://www.adidas.co.il/he/stores",
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo2208.jpg?v=1792508024",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo2208.jpg?v=1792565441",
   "slogan": "מותג אופנה וספורט בינלאומי",
   "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/ מייל/ דף מודפס. פרטים נוספים: 03-6505321."
  },
@@ -31162,65 +31221,6 @@
   "logo_url": "https://buyme.co.il/files/siteNewLogo17574267.jpg?v=1790591362",
   "slogan": "טיפולי וואטסו לנשים",
   "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/מייל/דף מודפס. לפרטים נוספים: 052-638-8961."
- },
- {
-  "id": "buyme:17574615",
-  "card": "buyme_all",
-  "name": "mix&matcha",
-  "brand_key": "mix&matcha",
-  "category": "מסעדות וקולינריה",
-  "subcategories": [
-   "בתי קפה"
-  ],
-  "regions": [
-   "ת\"א והסביבה",
-   "מרכז"
-  ],
-  "search_terms": [
-   "מאצ'ה",
-   "תה",
-   "בריאות",
-   "טבעי",
-   "פרימיום",
-   "יפני",
-   "אורגני",
-   "משקה",
-   "תחליף",
-   "אביזרים",
-   "חנות",
-   "סרמוניאל",
-   "אבקת",
-   "קפה",
-   "ערכה",
-   "חם",
-   "קקאו",
-   "אנרגיה",
-   "מתכונים",
-   "קר",
-   "בוטיק",
-   "בנימין",
-   "תל אביב",
-   "נחלת",
-   "mix",
-   "macha",
-   "mix macha",
-   "mix & macha",
-   "מיקס",
-   "מאצה",
-   "nhex"
-  ],
-  "is_chain": false,
-  "online_redeem": false,
-  "address": "נחלת בנימין 5, תל אביב-יפו",
-  "lat": 32.068829,
-  "lng": 34.770122,
-  "phone": "053-931-6613",
-  "website": "https://mix-n-matcha.com",
-  "branch_locator_url": null,
-  "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574615.jpg?v=1792053630",
-  "slogan": "חנות למוצרי מאצ'ה",
-  "terms": "למימוש יש להציג את קוד השובר"
  },
  {
   "id": "buyme:17574140",
@@ -32340,7 +32340,7 @@
   "website": "http://www.avitality.co.il",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo970763.jpg?v=1792508043",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo970763.jpg?v=1792586394",
   "slogan": "סדנאות בישול בריא",
   "terms": "למימוש ותיאום סדנא יש ליצור קשר בטלפון: 0544317255 ולמסור במעמד השיחה את קוד ה- Gift Card המצויין על גבי SMS/מייל/דף מודפס."
  },
@@ -43037,7 +43037,7 @@
   "website": "https://www.traklin.co.il",
   "branch_locator_url": "https://www.traklin.co.il/%D7%A1%D7%A0%D7%99%D7%A4%D7%99%D7%9D",
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo15673923.jpg?v=1792308577",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo15673923.jpg?v=1792585433",
   "slogan": "רשת למוצרי חשמל",
   "terms": "מימוש השובר הוא בסניפים במעמד התשלום בקופה. יש להציג את קוד ה-Gift Card באמצעות SMS/מייל/דף מודפס. לפרטים נוספים: 3383*"
  },
@@ -50763,7 +50763,7 @@
   "website": "https://seadolphin.co.il",
   "branch_locator_url": null,
   "reservation_url": "https://tabitisrael.co.il/online-reservations/create-reservation?step=search&orgId=5bfd4edad175bd70021d9ffd",
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17573190.jpg?v=1790694296",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17573190.jpg?v=1792585902",
   "slogan": "מסעדת דגים ובשרים כשרה",
   "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/מייל/דף מודפס. לפרטים נוספים: 02-6232272.\nשעות פתיחה:\nא-ה 12:00-23:00\nו 11:30- עד שעה לפני כניסת שבת\nמוצ\"ש - שעה אחרי יציאת שבת - 24:00"
  },
@@ -57310,7 +57310,7 @@
   "website": "https://alma-wellness.co.il",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17573820.jpg?v=1790766330",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17573820.jpg?v=1792572306",
   "slogan": "אמבטיות קרח למכירה וסדנאות",
   "terms": "למימוש יש להתקשר למספר 052-6840356 ולמסור את קוד ה-Gift Card טלפונית."
  },
