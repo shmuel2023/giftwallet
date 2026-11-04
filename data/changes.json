@@ -1,31 +1,35 @@
 {
- "at": "2026-11-03T06:41:06+00:00",
+ "at": "2026-11-04T06:08:36+00:00",
  "added": [
   {
-   "id": "buyme:17574653",
-   "name": "BISCOTTI"
+   "id": "buyme:4737083",
+   "name": "A23"
   },
   {
-   "id": "buyme:17574622",
-   "name": "CICILYA"
+   "id": "buyme:17574664",
+   "name": "MeBook"
   },
   {
-   "id": "buyme:17574617",
-   "name": "ROSSETTO"
+   "id": "buyme:17574646",
+   "name": "Pop&Pope 6 Anniversary"
   },
   {
-   "id": "buyme:17574559",
-   "name": "מיכל זיו אילון| תנועה מחוץ לקופסה"
+   "id": "buyme:17574665",
+   "name": "Saar Yoga"
   },
   {
-   "id": "buyme:17574655",
-   "name": "ראיסה בשוק הפשפשים"
+   "id": "buyme:17574647",
+   "name": "סוגרים נופש ב LALUN"
+  },
+  {
+   "id": "buyme:17574592",
+   "name": "קידי קידס"
   }
  ],
  "removed": [
   {
-   "id": "buyme:5413418",
-   "name": "סימני דרך"
+   "id": "buyme:17574081",
+   "name": "KFC"
   }
  ]
 }
