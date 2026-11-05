@@ -7605,7 +7605,12 @@
   "subcategories": [
    "צעצועים"
   ],
-  "regions": [],
+  "regions": [
+   "ת\"א והסביבה",
+   "השרון והסביבה",
+   "פתח תקווה ובקעת אונו",
+   "מרכז"
+  ],
   "search_terms": [
    "דוארט",
    "doart",
@@ -7646,7 +7651,7 @@
   "website": "https://do-art.co.il",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574628.jpg?v=1793536661",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574628.jpg?v=1793782282",
   "slogan": "חנות אונליין לערכות יצירה",
   "terms": "ניתן ליהנות מה-BUYME ברכישה אונליין באתר בית העסק\nאיך משתמשים ב-BUYME שלך ברכישות אונליין?\nנכנסים לאתר DO ART ובוחרים את הפריטים שהכי עושים לך טוב בלב.\nמוסיפים לעגלה - ועוברים לקופה לשלב התשלום.\nשימו לב, מימוש ה-BUYME הוא במעמד התשלום, ולא ניתן לממש את המתנה בשלב בחירת הפריטים או בחלונית \"קוד קופון או גיפטקארד\".\nבעמוד התשלום לוחצים על מימוש מועדון ביימי\nמזינים את 16 הספרות שמרכיבות את קוד ה-BUYME שלך, לוחצים הוספת שובר– ומשלימים את ההזמנה.\nוזהו, המתנה שבחרת בדרך אלייך!"
  },
@@ -8359,7 +8364,7 @@
   "website": "https://ecosupp.co.il",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574403.jpg?v=1793708127",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574403.jpg?v=1793783071",
   "slogan": "מותג ויטמנים ותוספי תזונה",
   "terms": "ניתן ליהנות מה-BUYME ברכישה אונליין באתר בית העסק\nאיך משתמשים ב-BUYME שלך ברכישות אונליין?\nנכנסים לאתר Ecosupp בוחרים את הפריטים שהכי עושים לך טוב בלב.\nמוסיפים לעגלה - ועוברים לקופה לשלב התשלום.\nשימו לב, מימוש ה-BUYME הוא במעמד התשלום, ולא ניתן לממש את המתנה בשלב בחירת הפריטים או בחלונית 'קוד קופון או גיפטקארד'.\nבעמוד התשלום לוחצים על בחירת אמצעי תשלום ובוחרים ב 'MULTIPASS BUYME'.\nמזינים את 16 הספרות שמרכיבות את קוד ה-BUYME שלך, לוחצים שליחה ומשלימים את ההזמנה.\nוזהו, המתנה שבחרת בדרך אלייך!"
  },
@@ -19941,7 +19946,7 @@
   "website": "https://www.nike.com/il/?cp=97024810271_search_&Macro=-%D7%A0%D7%99%D7%99%D7%A7%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C-g-10581748954-112481539367-e-c-IL-extended-463617282478-kwd-326044013230-1007999&dplnk=member&ds_rl=1252249&gad_source=1&gad_campaignid=10581748954&gbraid=0AAAAADq9vlMceK8mlTcDXZ7hGG0P3wghC&gclid=Cj0KCQjwotDBBhCQARIsAG5pinMnbQf8J6tIwQgZTf5iUdrPkV-RRznIhXardVbYX3tkSAO-hdlME1kaAp1TEALw_wcB&gclsrc=aw.ds/utm_source=buyme",
   "branch_locator_url": "https://www.retailors.com/nike-israel",
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574172.jpg?v=1792925070",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574172.jpg?v=1793718257",
   "slogan": "מותג ספורט בינלאומי",
   "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/מייל/דף מודפס. לפרטים נוספים: (מספר טלפון).\nהשובר ניתן למימוש בחנויות נייקי שבבעלות ריטיילורס בע\"מ בלבד. אתר האינטרנט של Nike וחנויות Nike outlet אינן בבעלות ריטיילורס בע\"מ ועל כן לא ניתן לממש בהן את השובר."
  },
