@@ -1,35 +1,15 @@
 {
- "at": "2026-11-04T06:08:36+00:00",
+ "at": "2026-11-06T06:32:53+00:00",
  "added": [
   {
-   "id": "buyme:4737083",
-   "name": "A23"
-  },
-  {
-   "id": "buyme:17574664",
-   "name": "MeBook"
-  },
-  {
-   "id": "buyme:17574646",
-   "name": "Pop&Pope 6 Anniversary"
-  },
-  {
-   "id": "buyme:17574665",
-   "name": "Saar Yoga"
-  },
-  {
-   "id": "buyme:17574647",
-   "name": "סוגרים נופש ב LALUN"
-  },
-  {
-   "id": "buyme:17574592",
-   "name": "קידי קידס"
+   "id": "buyme:17574467",
+   "name": "Shoesonline"
   }
  ],
  "removed": [
   {
-   "id": "buyme:17574081",
-   "name": "KFC"
+   "id": "buyme:17574145",
+   "name": "house of GON"
   }
  ]
 }
