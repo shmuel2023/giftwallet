@@ -1,22 +1,10 @@
 {
- "at": "2026-11-10T07:11:21+00:00",
- "added": [
+ "at": "2026-11-12T07:04:06+00:00",
+ "added": [],
+ "removed": [
   {
-   "id": "buyme:17574663",
-   "name": "Aqua Bell"
-  },
-  {
-   "id": "buyme:17574642",
-   "name": "Le bijou Paris"
-  },
-  {
-   "id": "buyme:17574670",
-   "name": "The Blue Fox Bar"
-  },
-  {
-   "id": "buyme:17574525",
-   "name": "טכנולייט תאורה"
+   "id": "buyme:17574646",
+   "name": "Pop&Pope 6 Anniversary"
   }
- ],
- "removed": []
+ ]
 }
