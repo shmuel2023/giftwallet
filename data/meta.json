@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-16T06:18:30+00:00",
- "merchant_count": 1375,
+ "updated_at": "2026-11-17T07:48:35+00:00",
+ "merchant_count": 1378,
  "per_card": {
-  "buyme_all": 1355,
+  "buyme_all": 1358,
   "dreamcard": 20
  },
- "geocoded": 455,
+ "geocoded": 454,
  "failed_sources": []
 }

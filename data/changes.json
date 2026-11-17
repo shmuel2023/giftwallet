@@ -1,47 +1,35 @@
 {
- "at": "2026-11-16T06:18:30+00:00",
+ "at": "2026-11-17T07:48:35+00:00",
  "added": [
   {
-   "id": "buyme:17574695",
-   "name": "ALIBI"
+   "id": "buyme:17574654",
+   "name": "AVIVIT WEIZMAN"
   },
   {
-   "id": "buyme:17574650",
-   "name": "BLACK FRIDAY בד\"ר גב"
+   "id": "buyme:17574676",
+   "name": "PARFA"
   },
   {
-   "id": "buyme:17574709",
-   "name": "Miva"
+   "id": "buyme:17574548",
+   "name": "SkyGini"
   },
   {
-   "id": "buyme:17574673",
-   "name": "Mizu At home"
+   "id": "buyme:17574685",
+   "name": "הגן הנעלם"
   },
   {
-   "id": "buyme:17574696",
-   "name": "YAN"
-  },
-  {
-   "id": "buyme:17574649",
-   "name": "בלאק פריידי בנאפו"
-  },
-  {
-   "id": "buyme:17574648",
-   "name": "מחירים של פעם בשנה במרלי"
+   "id": "buyme:17573834",
+   "name": "רם ספורט"
   }
  ],
  "removed": [
   {
-   "id": "buyme:17574643",
-   "name": "היופי שלך מתחיל בפלא"
+   "id": "buyme:848723",
+   "name": "מסעדת הצדף"
   },
   {
-   "id": "buyme:17574644",
-   "name": "מבצעי נובמבר של פרומיס"
-  },
-  {
-   "id": "buyme:17574647",
-   "name": "סוגרים נופש ב LALUN"
+   "id": "buyme:17573597",
+   "name": "קפה רבי"
   }
  ]
 }
