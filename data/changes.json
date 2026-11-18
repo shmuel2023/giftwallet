@@ -1,35 +1,15 @@
 {
- "at": "2026-11-17T07:48:35+00:00",
+ "at": "2026-11-18T07:17:59+00:00",
  "added": [
   {
-   "id": "buyme:17574654",
-   "name": "AVIVIT WEIZMAN"
-  },
-  {
-   "id": "buyme:17574676",
-   "name": "PARFA"
-  },
-  {
-   "id": "buyme:17574548",
-   "name": "SkyGini"
-  },
-  {
-   "id": "buyme:17574685",
-   "name": "הגן הנעלם"
-  },
-  {
-   "id": "buyme:17573834",
-   "name": "רם ספורט"
+   "id": "buyme:17574716",
+   "name": "טאלה"
   }
  ],
  "removed": [
   {
-   "id": "buyme:848723",
-   "name": "מסעדת הצדף"
-  },
-  {
-   "id": "buyme:17573597",
-   "name": "קפה רבי"
+   "id": "buyme:17573686",
+   "name": "BABY STORY"
   }
  ]
 }
