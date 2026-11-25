@@ -1,31 +1,39 @@
 {
- "at": "2026-11-24T09:47:46+00:00",
+ "at": "2026-11-25T08:22:38+00:00",
  "added": [
   {
-   "id": "buyme:17574694",
-   "name": "CAPRICE"
+   "id": "buyme:17574680",
+   "name": "Getaway Explore"
   },
   {
-   "id": "buyme:17574684",
-   "name": "Rapour"
+   "id": "buyme:17574678",
+   "name": "Getaway Live"
   },
   {
-   "id": "buyme:17574659",
-   "name": "SAI SUSHI BAR"
+   "id": "buyme:17574679",
+   "name": "Getaway Muse"
   },
   {
-   "id": "buyme:17574702",
-   "name": "דנון תכשיטים"
+   "id": "buyme:17574677",
+   "name": "Getaway Play"
   },
   {
-   "id": "buyme:17574712",
-   "name": "שירי מרכוס לקס"
+   "id": "buyme:17574703",
+   "name": "מבצעי בלאק פריידי"
   }
  ],
  "removed": [
   {
-   "id": "buyme:17574411",
-   "name": "IROBOT"
+   "id": "buyme:2932149",
+   "name": "Laguna Sea Sports"
+  },
+  {
+   "id": "buyme:17573302",
+   "name": "יקב חיטים"
+  },
+  {
+   "id": "buyme:17574699",
+   "name": "קולקציית החורף החדשה"
   }
  ]
 }
