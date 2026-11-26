@@ -3058,7 +3058,7 @@
   "website": "https://blueberrytlv.co.il",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17573921.jpg?v=1792675706",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17573921.jpg?v=1795610583",
   "slogan": "מותג אופנה לנשים",
   "terms": "למימוש אונליין יש להזמין משלוח דרך אתר בית העסק באופן הבא-\nשימו לב, מימוש המתנה הוא במעמד התשלום ולא ניתן לממש את המתנה בשלב בחירת הפריטים או בחלונית 'שובר מתנה או קוד קופון'.\nאז איך נהנים מהמתנה במשלוח?\nאחרי שבחרתם את הפריטים שהכי עושים לכם טוב בלב, לוחצים על 'לתשלום', ממלאים פרטים ובסיום לוחצים על 'שלמי עכשיו'. בעמוד הבא תחת אמצעי תשלום יש לבחור ב'תשלום באמצעות שובר BUYME וזה בדיוק המקום בו מזינים את הקוד של הגיפט קארד ובסיום לוחצים על 'הוספת שובר'.\nאזורי חלוקת המשלוחים הינם לפי מדיניות המשלוחים של בית העסק."
  },
@@ -4984,8 +4984,10 @@
   "card": "buyme_all",
   "name": "CAPRICE",
   "brand_key": "caprice",
-  "category": null,
-  "subcategories": [],
+  "category": "אופנה ושופינג",
+  "subcategories": [
+   "תכשיטים ושעונים"
+  ],
   "regions": [],
   "search_terms": [
    "כפריס",
@@ -5040,7 +5042,7 @@
   "website": "https://he.caprice.co.il",
   "branch_locator_url": "https://he.caprice.co.il/store-locator",
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574694.jpg?v=1795442204",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574694.jpg?v=1795621003",
   "slogan": "מותג לתכשיטי יהלומים טבעיים ואבני חן",
   "terms": "ניתן ליהנות מה-BUYME ברכישה אונליין באתר בית העסק\nאיך משתמשים ב-BUYME שלך ברכישות אונליין?\nנכנסים לאתר CAPRICE ובוחרים את הפריטים שהכי עושים לך טוב בלב.\nמוסיפים לעגלה - ועוברים לקופה לשלב התשלום.\nשימו לב, מימוש ה-BUYME הוא במעמד התשלום, ולא ניתן לממש את המתנה בשלב בחירת הפריטים או בחלונית \"קוד קופון או גיפטקארד\".\nבעמוד התשלום לוחצים על BUYME\nמזינים את 16 הספרות שמרכיבות את קוד ה-BUYME שלך, לוחצים על הוספת שובר – ומשלימים את ההזמנה.\nוזהו, המתנה שבחרת בדרך אלייך!"
  },
@@ -6180,7 +6182,7 @@
   "website": "https://www.cartersoshkosh.co.il",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo7332274.jpg?v=1788359354",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo7332274.jpg?v=1795599510",
   "slogan": "רשת אופנה לילדים ותינוקות",
   "terms": "למימוש יש להציג את קוד ה- Gift Card בקופות הרשת באמצעות SMS/ מייל/ דף מודפס. לפרטים נוספים : 1700-700-470.\nלמימוש באתר- CARTERS יש להגיע לעמדת התשלום באתר ללחוץ על \"המשך לתשלום מאובטח\", לבחור \"לתשלום בכרטיס מתנה/ GIFT CARD\" ולבחור \"BUYME\". יש להקיש את קוד המתנה ללא מקפים."
  },
@@ -8185,7 +8187,8 @@
    "בר מסעדה",
    "דה פגטו",
    "פקטו",
-   "דה"
+   "דה",
+   "חבילות"
   ],
   "is_chain": false,
   "online_redeem": false,
@@ -8196,7 +8199,7 @@
   "website": "https://www.defacto-tlv.com",
   "branch_locator_url": null,
   "reservation_url": "https://ontopo.com/he/il/page/45493653",
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574597.jpg?v=1795444918",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574597.jpg?v=1795619560",
   "slogan": "בר קוקטיילים ומסעדה",
   "terms": "למימוש יש להציג את קוד השובר.\nלפרטים נוספים: ⁦077-938-6172⁩."
  },
@@ -12660,7 +12663,7 @@
   "website": "https://calmark.io/p/yisId",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574436.jpg?v=1779631917",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574436.jpg?v=1795611717",
   "slogan": "The Art of Scalp Luxury",
   "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/מייל/דף מודפס. לפרטים נוספים: 0505672024."
  },
@@ -19582,7 +19585,7 @@
   "website": "https://mizuathome.com",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17574673.jpg?v=1794734248",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17574673.jpg?v=1795596992",
   "slogan": "עציצי מים",
   "terms": "ניתן ליהנות מה-BUYME ברכישה אונליין באתר בית העסק\nאיך משתמשים ב-BUYME שלך ברכישות אונליין?\nנכנסים לאתר Mizu At home ובוחרים את הפריטים שהכי עושים לך טוב בלב.\nמוסיפים לעגלה - ועוברים לקופה לשלב התשלום.\nשימו לב, מימוש ה-BUYME הוא במעמד התשלום, ולא ניתן לממש את המתנה בשלב בחירת הפריטים או בחלונית \"קוד קופון או גיפטקארד\".\nבעמוד התשלום לוחצים על כרטיסי אשראי או אמצעי תשלום נוספים ואז על מימוש מועדון ביימי\nמזינים את 16 הספרות שמרכיבות את קוד ה-BUYME שלך, לוחצים על הוספת שובר – ומשלימים את ההזמנה.\nוזהו, המתנה שבחרת בדרך אלייך!"
  },
@@ -23372,7 +23375,7 @@
   "website": "https://ronenchen.co.il",
   "branch_locator_url": "https://www.ronenchen.co.il/%d7%97%d7%a0%d7%95%d7%99%d7%95%d7%aa",
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo17573230.jpg?v=1790077168",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo17573230.jpg?v=1795601776",
   "slogan": "מעצב אופנת נשים",
   "terms": "ניתן ליהנות מה-BUYME גם ברכישה אונליין באתר בית העסק וגם בחנויות.\nאיך נהנים מה-BUYME שלך ברכישות אונליין?\nנכנסים לאתר רונן חן ובוחרים את הפריטים שהכי עושים לך טוב בלב.\nמוסיפים לעגלה - ועוברים לקופה לשלב התשלום.\nשימו לב, מימוש ה-BUYME הוא במעמד התשלום, ולא ניתן לממש את המתנה בשלב בחירת הפריטים או בחלונית \"קוד קופון או גיפטקארד\".\nבעמוד התשלום לוחצים ממלאים את הפרטי המשלוח ומסמנים בשיטת התשלום אמצעי תשלום Gift Card, ApplePay, GooglePay ולאחר מכן על כפתור 'מעבר לתשלום מאובטח'.\nבעמוד הבא מסמנים אמצעי תשלום 'BUYME'\nמזינים את 16 הספרות שמרכיבות את קוד ה-BUYME שלך, לוחצים 'לביצוע התשלום' – ומשלימים את ההזמנה.\nוזהו, המתנה שבחרת בדרך אלייך!\nנ.ב, ניתן להוסיף אמצעי תשלום נוספים או/ו שוברים נוספים באותה ההזמנה.\nכדי ליהנות מה-BUYME בבית העסק יש להציג את הקוד למימוש בקופה.\nלפרטים נוספים ניתן ליצור קשר עם בית העסק"
  },
@@ -26135,7 +26138,7 @@
   "website": "https://sharespa.co.il/herodstlv",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo1859372.jpg?v=1795437665",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo1859372.jpg?v=1795611530",
   "slogan": "רשת ספא בבתי מלון",
   "terms": "- יש לתאם מראש ולציין את סוג השובר שנרכש בטלפון במספר 8921*\n-למימוש שובר כספי באתר ShareSpa יש לבחור את חבילת הספא, בעגלת הקניות למלא את פרטי ההתקשרות, ללחוץ על כפתור \"שלם עכשיו\" ובבחירת אמצעי התשלום יש לבחור בBUYME ולהקליד את קוד השובר וללחוץ על \"הוספת שובר\"\n- ניתן לממש את השובר בימים: א'-ה' 09:00-21:00, בשישי-שבת, ערבי חג וחגים 09:00-19:00\n- כניסה לבריכת המלון (פעילה בין חודשים אפריל עד אוקטובר בהתאם לתנאי מזג האוויר והחלטת המלון) בתוספת תשלום מול הספא ועל בסיס מקום פנוי בלבד. שעות פעילות הבריכה שונות משעות פעילות הספא.\n- בימים שישי, שבת, ימי חול המועד, ימי וערבי אהבה תידרש תוספת של 50 ₪ לאדם\n- העיסויים יתבצעו בחדרים זוגיים או נפרדים לבחירת הלקוח בהתאם ובכפוף להחלטת הספא\n- בחבילות הכוללות ארוחת בוקר - תקבלו שובר לארוחת בוקר במבחר מסעדות ובתי קפה. ניתן לשדרג לבופה המלון בתוספת תשלום על פי זמינות, פרטים נוספים בטלפון.\n- הכניסה למתחם הספא בבתי המלון מגיל 18 בלבד, לא ניתן להיכנס למתחם בליווי ילדים, תינוקות או עגלות.\n- יש להגיע 30 דקות לפחות לפני מועד הטיפול שנקבע. איחור גורר קיצור מזמן הטיפול.\n- עיסוי לבחירה מבין העיסויים: שוודי-קלאסי/ משולב/ קצוות."
  },
@@ -27637,7 +27640,7 @@
   "website": "https://www.taizu.co.il",
   "branch_locator_url": null,
   "reservation_url": "http://ontopo.com/he/il/page/36960535?source=buyme",
-  "logo_url": "https://buyme.co.il/files/siteNewLogo348972.jpg?v=1795430715",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo348972.jpg?v=1795611624",
   "slogan": "מסעדת שף של יובל בן נריה",
   "terms": "למימוש השובר יש להציג מספר שובר לפני תחילת הארוחה באמצעות SMS/ מייל/ מודפס. להזמנת מקום מראש ולפרטים: 03-5225005"
  },
@@ -36413,7 +36416,7 @@
   "website": "http://www.aristo-shmat.co.il",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo2080281.jpg?v=1793527553",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo2080281.jpg?v=1795600610",
   "slogan": "רשת אופנה לנשים",
   "terms": "למימוש השובר יש להציג בקופות הסניפים מספר שובר באמצעות SMS/ מייל/ שובר מודפס. לפרטים נוספים : 03-5188518."
  },
@@ -56068,7 +56071,7 @@
   "website": "https://www.metuka.co.il",
   "branch_locator_url": "https://www.metuka.co.il/%D7%A1%D7%A0%D7%99%D7%A4%D7%99%D7%9D",
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo13762902.jpg?v=1793548293",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo13762902.jpg?v=1795595276",
   "slogan": "קונדיטוריה וקייטרינג",
   "terms": "למימוש יש להציג את קוד ה-Gift Card באמצעות SMS/מייל/דף מודפס. לפרטים נוספים: 072-2202510.\nה-Gift Card ניתן למימוש בסניפי הרשת בלבד ובהתאם למגוון הקיים בסניף. למשלוחים יש להתקשר לסניף המבוקש ולתת את הקוד בטלפון."
  },
@@ -57022,11 +57025,11 @@
   ],
   "regions": [
    "ת\"א והסביבה",
+   "פתח תקווה ובקעת אונו",
    "חיפה והסביבה",
    "מרכז",
    "צפון",
-   "דרום",
-   "פתח תקווה ובקעת אונו"
+   "דרום"
   ],
   "search_terms": [
    "xuk,o",
@@ -57046,7 +57049,7 @@
    "סולטם- חלי בישול"
   ],
   "is_chain": true,
-  "online_redeem": false,
+  "online_redeem": true,
   "address": null,
   "lat": null,
   "lng": null,
@@ -57054,7 +57057,7 @@
   "website": "https://soltam.co.il",
   "branch_locator_url": "https://soltam.co.il/store-locator",
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo339033.jpg?v=1795080216",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo339033.jpg?v=1795617251",
   "slogan": "רשת כלי בית ומטבח",
   "terms": "למימוש בסניפי הרשת יש להציג את קוד ה-Gift Card באמצעות SMS/מייל/דף מודפס."
  },
@@ -66636,7 +66639,7 @@
   "website": "https://www.habima.co.il",
   "branch_locator_url": null,
   "reservation_url": null,
-  "logo_url": "https://buyme.co.il/files/siteNewLogo3691787.jpg?v=1795438271",
+  "logo_url": "https://buyme.co.il/files/siteNewLogo3691787.jpg?v=1795611679",
   "slogan": "התיאטרון הלאומי של ישראל",
   "terms": "להזמנת כרטיסים יש להתקשר לתיאטרון הבימה למספר 03-6295555, לציין את קוד הבימה ולמסור את קוד ה-Gift Card שברשותכם. ללוח ההצגות המלא - לחצו כאן."
  },
