@@ -1,39 +1,10 @@
 {
- "at": "2026-11-25T08:22:38+00:00",
- "added": [
-  {
-   "id": "buyme:17574680",
-   "name": "Getaway Explore"
-  },
-  {
-   "id": "buyme:17574678",
-   "name": "Getaway Live"
-  },
-  {
-   "id": "buyme:17574679",
-   "name": "Getaway Muse"
-  },
-  {
-   "id": "buyme:17574677",
-   "name": "Getaway Play"
-  },
-  {
-   "id": "buyme:17574703",
-   "name": "מבצעי בלאק פריידי"
-  }
- ],
+ "at": "2026-11-27T08:17:15+00:00",
+ "added": [],
  "removed": [
   {
-   "id": "buyme:2932149",
-   "name": "Laguna Sea Sports"
-  },
-  {
-   "id": "buyme:17573302",
-   "name": "יקב חיטים"
-  },
-  {
-   "id": "buyme:17574699",
-   "name": "קולקציית החורף החדשה"
+   "id": "buyme:17574274",
+   "name": "רוזה אשדוד"
   }
  ]
 }
